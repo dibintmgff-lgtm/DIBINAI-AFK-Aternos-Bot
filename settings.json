@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "DIBIN.aternos.me",
+    "port": 20766,
     "version": "",
     "try-creative": false
   },
